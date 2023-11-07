@@ -1,0 +1,1 @@
+First entry into the worlds of JavaScript with the Odin Project.
